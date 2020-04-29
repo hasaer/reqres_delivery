@@ -4,7 +4,6 @@ env:
   variables:
     #IMAGE_REPO_NAME: "user10-delivery"
     _PROJECT_NAME: "user10-delivery"
-    
 
 phases:
   install:
